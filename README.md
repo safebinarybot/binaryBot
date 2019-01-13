@@ -1,7 +1,7 @@
 # binaryBot
 binary.com auto trader 
 
-Clone Or download Free bots Above 
+Clone Or download Free Bot_Collection.zip Above 
 
 
 Today Special | Binary.com Bot for just 2.90$ real Price 6$ (24 Hour deal)
