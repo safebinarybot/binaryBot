@@ -8,21 +8,15 @@ Safest binary bot for low balance accounts (20$ per day - 2018)
 https://gumroad.com/l/safer-1/fsc8q5x
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
 👉🏾 Download Pro Versions Bot :
-
 https://gumroad.com/safebinarybots  🏬
-
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
-👉🏾 Watch Video tutorials :
-
-https://t.me/binaryfreebots 🗣
-
+👉🏾  watch Free bots tutorials :
+ https://goo.gl/1RRDby
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
 👉🏾 Join Telegram Group for more free bots:
-
-https://t.me/binaryfreebots 🗣
-
+ https://t.me/binaryfreebots 🗣
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+👉🏾 Free  Bot :
+https://goo.gl/bhiuys
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
