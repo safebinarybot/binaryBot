@@ -20,7 +20,7 @@ Clone Or download Free Bot_Collection.zip Above
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 👉🏾 Download Pro Versions Bot :
-https://gumroad.com/safebinarybots  🏬
+https://gumroad.com/binary_bots  🏬
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
