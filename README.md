@@ -1,23 +1,19 @@
 <!--
   GitHub Profile README for: safebinarybot
   Paste this file into the repo:  safebinarybot/safebinarybot  (the special profile repo)
-  Screenshots live in:           ./images/   (see assets/README.md for the shot list)
-  SEO note: headings, alt-text and keywords are tuned for "Deriv bots", "free binary bots",
-            "AI trading", "Deriv copy trading" and brand terms (BinaryBot, NexTrader, TupleMint, DayTrades).
+  Primary SEO keyword: "Deriv bot" (+ Deriv bots, free Deriv bot, Deriv trading bot, AI Deriv bot).
+  Brand terms: BinaryBot, NexTrader, TupleMint, DayTrades.
 -->
 
 <a name="top"></a>
 
 <div align="center">
 
-<!-- BANNER: sample image. Replace with ./images/banner.png (1280x320) when ready -->
-<img width="1128" height="498" alt="image" src="https://github.com/user-attachments/assets/aa9d76e3-2076-42e4-bc97-c2220f981e88" />
+<img width="1128" height="498" alt="BinaryBot Live Deriv bot platform — free Deriv bots, AI auto trading and copy trading" src="https://github.com/user-attachments/assets/aa9d76e3-2076-42e4-bc97-c2220f981e88" />
 
+# 🤖 BinaryBot Live — The Best Free Deriv Bot for AI Auto Trading & Copy Trading
 
-
-# 🤖 BinaryBot Live — Free Deriv Bots, AI Auto Trading & Copy Trading
-
-### The all-in-one ecosystem for **Deriv bots**, **free binary bots**, **AI trading** and **copy trading**
+### A complete **Deriv bot** ecosystem — free Deriv bots, AI auto trading & Deriv copy trading in one place
 
 <p>
   <a href="https://binarybot.live/"><img alt="Website" src="https://img.shields.io/badge/Website-binarybot.live-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -29,67 +25,65 @@
   <img alt="Active Users" src="https://img.shields.io/badge/Active%20Users-598K%2B-22c55e?style=flat-square">
   <img alt="Trades Automated" src="https://img.shields.io/badge/Trades%20Automated-3.75M%2B-8b5cf6?style=flat-square">
   <img alt="Countries" src="https://img.shields.io/badge/Traders%20In-150%2B%20Countries-f59e0b?style=flat-square">
-  <img alt="Free Bots" src="https://img.shields.io/badge/Free%20Deriv%20Bots-Yes-0ea5e9?style=flat-square">
+  <img alt="Free Deriv Bot" src="https://img.shields.io/badge/Free%20Deriv%20Bot-Yes-0ea5e9?style=flat-square">
 </p>
 
 </div>
 
 ---
 
-## ⚡ What is BinaryBot Live?
+## ⚡ What is a Deriv Bot? (And Why BinaryBot Live)
 
-**BinaryBot Live** is a next-generation **AI auto trading platform for Deriv** — a complete suite of **free Deriv bots**, **binary trading bots**, **AI strategy builders** and **copy trading** tools.
+A **Deriv bot** is an automated trading bot that connects to your **Deriv** account and places trades for you using a preset strategy — no manual clicking, no emotions, 24/7.
 
-Connect your **Deriv API token**, pick a bot, and let it trade **24/7** with emotion-free, data-driven precision. Beginner or pro — **no coding required**.
+**BinaryBot Live** is a next-generation **Deriv bot platform**: a complete suite of **free Deriv bots**, **AI auto trading bots**, an **AI Deriv bot builder**, and **Deriv copy trading** tools.
 
-> 🔑 **Keywords:** Deriv bots · free binary bots · binary free bots · Deriv auto trading · AI trading bot · Deriv copy trading · digit differ bot · over under bot · even odd bot · volatility index bot · best Deriv bot 2026
+Connect your **Deriv API token**, pick a **Deriv bot**, and let it trade automatically with data-driven precision. Beginner or pro — **no coding required**.
+
+> 🔑 **Top keywords:** Deriv bot · Deriv bots · free Deriv bot · Deriv trading bot · AI Deriv bot · Deriv auto trading bot · best Deriv bot 2026 · Deriv copy trading · binary bot
 
 ---
 
-## 🚀 Our Platforms — Pick Your Edge
+## 🚀 Our Deriv Bot Platforms — Pick Your Edge
 
 | Platform | What it does | Launch |
 |----------|--------------|--------|
 | 🌐 **BinaryBot Live** | Home of **free Deriv bots**, analyzers & the bot store | **[binarybot.live »](https://binarybot.live/)** |
-| 📈 **DayTrades App** | Fast AI **auto trading** dashboard for Deriv | **[app.daytrades.live »](https://app.daytrades.live/)** |
-| 👥 **DayTrades Copy** | **Copy trading** — mirror winning traders automatically | **[copy.daytrades.live »](https://copy.daytrades.live/)** |
-| 💎 **NexTrader** | AI-powered trading suite with adaptive risk control | **[app.nextrader.live »](https://app.nextrader.live/)** |
-| 🧠 **TupleMint** | Build Deriv bots from **plain English** using AI | **[app.tuplemint.com »](https://app.tuplemint.com/)** |
+| 📈 **DayTrades App** | Fast AI **Deriv auto trading bot** dashboard | **[app.daytrades.live »](https://app.daytrades.live/)** |
+| 👥 **DayTrades Copy** | **Deriv copy trading** — mirror winning traders automatically | **[copy.daytrades.live »](https://copy.daytrades.live/)** |
+| 💎 **NexTrader** | **AI Deriv bot** suite with adaptive risk control | **[app.nextrader.live »](https://app.nextrader.live/)** |
+| 🧠 **TupleMint** | Build a **Deriv bot** from **plain English** using AI | **[app.tuplemint.com »](https://app.tuplemint.com/)** |
 
 <div align="center">
 
-<a href="https://binarybot.live/"><img alt="Open BinaryBot Live" src="https://img.shields.io/badge/▶%20BinaryBot%20Live-Launch-2563eb?style=for-the-badge"></a>
-<a href="https://app.daytrades.live/"><img alt="Open DayTrades App" src="https://img.shields.io/badge/▶%20DayTrades%20App-Launch-16a34a?style=for-the-badge"></a>
-<a href="https://copy.daytrades.live/"><img alt="Open DayTrades Copy" src="https://img.shields.io/badge/▶%20Copy%20Trading-Launch-9333ea?style=for-the-badge"></a>
-<a href="https://app.nextrader.live/"><img alt="Open NexTrader" src="https://img.shields.io/badge/▶%20NexTrader-Launch-0891b2?style=for-the-badge"></a>
-<a href="https://app.tuplemint.com/"><img alt="Open TupleMint" src="https://img.shields.io/badge/▶%20TupleMint-Launch-d97706?style=for-the-badge"></a>
+<a href="https://binarybot.live/"><img alt="Open BinaryBot Live Deriv bot" src="https://img.shields.io/badge/▶%20BinaryBot%20Live-Launch-2563eb?style=for-the-badge"></a>
+<a href="https://app.daytrades.live/"><img alt="Open DayTrades Deriv bot app" src="https://img.shields.io/badge/▶%20DayTrades%20App-Launch-16a34a?style=for-the-badge"></a>
+<a href="https://copy.daytrades.live/"><img alt="Open DayTrades Deriv copy trading" src="https://img.shields.io/badge/▶%20Copy%20Trading-Launch-9333ea?style=for-the-badge"></a>
+<a href="https://app.nextrader.live/"><img alt="Open NexTrader AI Deriv bot" src="https://img.shields.io/badge/▶%20NexTrader-Launch-0891b2?style=for-the-badge"></a>
+<a href="https://app.tuplemint.com/"><img alt="Open TupleMint Deriv bot builder" src="https://img.shields.io/badge/▶%20TupleMint-Launch-d97706?style=for-the-badge"></a>
 
 </div>
 
 ---
 
-## 📸 Screenshots
-
-> Sample images shown below. Replace each with your real screenshot in `./images/` (see [`images/README.md`](./images/README.md) for file names & sizes).
+## 📸 Deriv Bot Screenshots
 
 <div align="center">
 
-### 🌐 BinaryBot Live — Free Bots & Analyzer
-<img width="1816" height="1056" alt="image" src="https://github.com/user-attachments/assets/0b67e24a-b249-4d6e-b6a6-10b49f13daa2" />
+### 🌐 BinaryBot Live — Free Deriv Bots & Digit Analyzer
+<img width="1816" height="1056" alt="BinaryBot Live free Deriv bot dashboard and Deriv digit analyzer" src="https://github.com/user-attachments/assets/0b67e24a-b249-4d6e-b6a6-10b49f13daa2" />
 
+### 📈 DayTrades — AI Deriv Auto Trading Bot
+<img width="1578" height="868" alt="DayTrades AI Deriv auto trading bot dashboard" src="https://github.com/user-attachments/assets/66befd28-1634-464c-b7a2-772081871667" />
 
-### 📈 DayTrades — AI Auto Trading App
-<img width="1578" height="868" alt="image" src="https://github.com/user-attachments/assets/66befd28-1634-464c-b7a2-772081871667" />
+### 👥 DayTrades — Deriv Copy Trading Bot
+<img width="1582" height="884" alt="DayTrades Deriv copy trading bot dashboard" src="https://github.com/user-attachments/assets/21ca41ae-76c9-431d-94db-de72e25deacc" />
 
-### 👥 DayTrades — Copy Trading
-<img width="1582" height="884" alt="image" src="https://github.com/user-attachments/assets/21ca41ae-76c9-431d-94db-de72e25deacc" />
+### 💎 NexTrader — AI Deriv Bot Suite
+<img width="1571" height="719" alt="NexTrader AI-powered Deriv bot trading suite" src="https://github.com/user-attachments/assets/c6c5f17a-adfc-48e0-8929-caf0babe550d" />
 
-
-### 💎 NexTrader — AI Trading Suite
-<img width="1571" height="719" alt="image" src="https://github.com/user-attachments/assets/c6c5f17a-adfc-48e0-8929-caf0babe550d" />
-
-### 🧠 TupleMint — Build Bots in Plain English
-<img width="1546" height="885" alt="image" src="https://github.com/user-attachments/assets/00476d5e-309d-4a5f-a038-3785a35b422e" />
+### 🧠 TupleMint — Build a Deriv Bot in Plain English
+<img width="1546" height="885" alt="TupleMint AI Deriv bot builder using plain English" src="https://github.com/user-attachments/assets/00476d5e-309d-4a5f-a038-3785a35b422e" />
 
 </div>
 
@@ -97,17 +91,15 @@ Connect your **Deriv API token**, pick a bot, and let it trade **24/7** with emo
 
 ## 📈 Proven Results & Transparency
 
-Real traffic, real payouts — our platforms are trusted by hundreds of thousands of Deriv traders worldwide.
+Real traffic, real payouts — our **Deriv bots** are trusted by hundreds of thousands of traders worldwide.
 
 <div align="center">
 
 ### 📊 598K+ Active Users · 3.75M+ Events · 150+ Countries
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/e2e95db2-37f5-4d82-99f1-37c36690a8e7" />
-
+<img width="1280" height="853" alt="BinaryBot Live Deriv bot analytics — 598K active users across 150+ countries" src="https://github.com/user-attachments/assets/e2e95db2-37f5-4d82-99f1-37c36690a8e7" />
 
 ### 💸 $276K+ Withdrawn & Paid Out to Traders
-<img width="1160" height="916" alt="image" src="https://github.com/user-attachments/assets/76af08a0-fee8-4415-9034-805b97dd2a59" />
-
+<img width="1160" height="916" alt="BinaryBot Live Deriv bot withdrawal proof — $276,432 total paid out" src="https://github.com/user-attachments/assets/76af08a0-fee8-4415-9034-805b97dd2a59" />
 
 </div>
 
@@ -115,30 +107,30 @@ Real traffic, real payouts — our platforms are trusted by hundreds of thousand
 
 ---
 
-## 🧠 What You Get
+## 🧠 What Our Deriv Bots Do
 
-### 🚀 AI Auto Trading
-- Hands-free trading on **Deriv** 24/7
+### 🚀 AI Deriv Auto Trading Bot
+- Hands-free **Deriv bot** trading 24/7
 - Intelligent entry & exit with real-time market detection
 - Emotion-free, rule-based decisions
 
-### 💡 Free Binary Bots
+### 💡 Free Deriv Bots
 - A library of **free Deriv bots** ready in one click
 - Mobile-friendly, fast, no install
 - Instant activation with your Deriv API token
 
-### 👥 Copy Trading
-- Mirror experienced traders automatically via **[copy.daytrades.live](https://copy.daytrades.live/)**
+### 👥 Deriv Copy Trading Bot
+- Mirror experienced Deriv traders automatically via **[copy.daytrades.live](https://copy.daytrades.live/)**
 - Set risk per copy, pause anytime
-- Perfect for passive, hands-off trading
+- Perfect for passive, hands-off Deriv trading
 
-### 📊 Advanced Analytics
+### 📊 Deriv Bot Analytics
 - Live tick data & market trend visualization
 - 100-tick digit pattern analysis
 - Spot least/most frequent digits for higher-probability entries
 
-### 🧩 AI Strategy Builder (TupleMint)
-- Describe your strategy in **plain English** → get a working bot
+### 🧩 AI Deriv Bot Builder (TupleMint)
+- Describe your **Deriv bot** strategy in **plain English** → get a working bot
 - Backtest before going live
 - No coding, no XML editing
 
@@ -146,50 +138,69 @@ Real traffic, real payouts — our platforms are trusted by hundreds of thousand
 
 ## 💰 Popular Deriv Bots
 
-| Bot | Strategy | Best for |
-|-----|----------|----------|
-| 🎯 **Sniper Bot** | Fast-entry auto trader | Volatile markets |
-| ⚙️ **Digit Differ Analyzer** | Real-time tick prediction | Digit trading |
-| 🧩 **LDP Binary Analyzer** | Non-martingale trend logic | Consistent, lower-risk runs |
-| 💎 **NexTrader Pro** | AI suite, auto profit-taking & adaptive risk | All-round automation |
+| Deriv Bot | Strategy | Best for |
+|-----------|----------|----------|
+| 🎯 **Sniper Bot** | Fast-entry Deriv auto trader | Volatile markets |
+| ⚙️ **Digit Differ Analyzer** | Real-time tick prediction Deriv bot | Digit trading |
+| 🧩 **LDP Binary Analyzer** | Non-martingale trend Deriv bot | Consistent, lower-risk runs |
+| 💎 **NexTrader Pro** | AI Deriv bot with auto profit-taking & adaptive risk | All-round automation |
 
-➡️ **Get them all:** [shop.binarybot.live](https://shop.binarybot.live)
+➡️ **Get all our Deriv bots:** [shop.binarybot.live](https://shop.binarybot.live)
 
 ---
 
-## 🧩 How It Works
+## 🧩 How to Use Our Deriv Bot (5 Steps)
 
-1. Visit **[binarybot.live](https://binarybot.live/)** (or any app above)
+1. Visit **[binarybot.live](https://binarybot.live/)** (or any Deriv bot app above)
 2. Log in with your **Deriv API token**
-3. Choose a **bot** — free or premium
+3. Choose a **Deriv bot** — free or premium
 4. Click **Start Trading**
-5. Watch it trade automatically — no manual work
+5. Watch your Deriv bot trade automatically — no manual work
 
 ---
 
-## 🌟 Why Traders Choose Us
+## 🌟 Why Choose Our Deriv Bot?
 
-✅ **AI-optimized strategies** built for Deriv
-✅ **Free access** — start with free binary bots instantly
-✅ **5 platforms, one ecosystem** — bots, AI builder & copy trading
-✅ **24/7 operation** — your bots never sleep
-✅ **Community of 5,000+ traders** sharing signals & setups
+✅ **Best free Deriv bot** — start trading instantly, no cost
+✅ **AI-optimized Deriv bot strategies** built for volatility indices
+✅ **5 platforms, one ecosystem** — Deriv bots, AI builder & copy trading
+✅ **24/7 operation** — your Deriv bot never sleeps
+✅ **Community of 5,000+ Deriv traders** sharing signals & setups
+
+---
+
+## ❓ Deriv Bot FAQ
+
+**What is the best free Deriv bot?**
+BinaryBot Live offers a library of free Deriv bots — including the LDP Binary Analyzer and Digit Differ Analyzer — that run directly in your browser with your Deriv API token.
+
+**Are these Deriv bots really free?**
+Yes. Core Deriv bots on [binarybot.live](https://binarybot.live/) are 100% free. Premium AI Deriv bots are available in the bot store.
+
+**How do I run a Deriv bot?**
+Log in with your Deriv API token, pick a Deriv bot, and click Start — the bot trades automatically 24/7.
+
+**Is there an AI Deriv bot?**
+Yes — NexTrader is our AI Deriv bot suite, and TupleMint lets you build a custom Deriv bot from plain English.
+
+**Can I copy trade on Deriv?**
+Yes — use [copy.daytrades.live](https://copy.daytrades.live/) to mirror winning Deriv traders automatically.
 
 ---
 
 ## 🔍 SEO Keywords
 
-> **Deriv bots**, **free Deriv bots**, **free binary bots**, **binary free bots**, **Deriv auto trading**, **Deriv trading bot**, **AI trading bot**, **AI Deriv bot**, **Deriv copy trading**, **digit differ bot**, **over under bot**, **even odd bot**, **volatility index bot**, **Deriv bot download**, **Deriv strategy**, **binary options trading bot**, **NexTrader AI**, **TupleMint AI bot builder**, **DayTrades copy trading**, **best Deriv bot 2026**
+> **Deriv bot**, **Deriv bots**, **free Deriv bot**, **free Deriv bots**, **Deriv trading bot**, **AI Deriv bot**, **Deriv auto trading bot**, **best Deriv bot 2026**, **Deriv bot download**, **Deriv bot strategy**, **Deriv copy trading**, **Deriv digit bot**, **digit differ bot**, **over under Deriv bot**, **even odd Deriv bot**, **volatility index Deriv bot**, **binary bot**, **free binary bots**, **NexTrader AI Deriv bot**, **TupleMint Deriv bot builder**, **DayTrades Deriv copy trading**
 
 ---
 
 ## ⚠️ Risk Disclaimer
 
-Trading binary options and forex involves significant financial risk. All bots and signals are provided for **educational and experimental purposes only**. Always trade responsibly and test on a **demo account** before risking real capital.
+Trading binary options and forex with a Deriv bot involves significant financial risk. All Deriv bots and signals are provided for **educational and experimental purposes only**. Always trade responsibly and test on a **demo account** before risking real capital.
 
 ---
 
-## 💬 Join the Community
+## 💬 Join the Deriv Bot Community
 
 <div align="center">
 
@@ -203,7 +214,7 @@ Trading binary options and forex involves significant financial risk. All bots a
 <div align="center">
 
 ### 🖤 Made with passion by **Manifest Software LLC**
-Empowering the next generation of traders through AI-driven automation.
+Empowering the next generation of Deriv bot traders through AI-driven automation.
 
 <a href="#top">⬆ Back to top</a>
 
